@@ -52,7 +52,7 @@ public class MPH1 {
                 empSala2();
                 break;
             default:
-                System.out.println("You haven't made a selection...Goodbye");
+                System.out.println("You entered an incorrect option.");
                 break;
     }
 }    
