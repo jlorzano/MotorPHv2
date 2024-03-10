@@ -16,7 +16,7 @@ import java.util.Scanner;
  */
 public class MPH1 {
     private static final DecimalFormat df = new DecimalFormat("0.00");
-
+    //updated motorPH code
     public static void main(String[] args) throws IOException, InterruptedException {
         Greetings gr = new Greet2() {};
         gr.greet1();
