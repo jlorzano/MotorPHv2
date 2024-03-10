@@ -52,7 +52,9 @@ public class MPH1 {
                 empSala2();
                 break;
             default:
-                System.out.println("You entered an incorrect option...Goodbye");
+                System.out.println("You entered an incorrect option.");
+                Thread.sleep(1500);
+                System.out.println("Exiting now......Goodbye");
                 break;
     }
 }    
